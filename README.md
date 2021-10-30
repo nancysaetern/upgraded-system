@@ -16,3 +16,7 @@ WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
 
 
+
+Link to walk through video
+
+https://watch.screencastify.com/v/OQ89sIB95oJwijVeNFTF
