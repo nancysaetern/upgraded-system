@@ -1,7 +1,7 @@
-# readme 
+# Professional README Generator 
  
 ## Description 
-node based application 
+A node based application that asks users a series of questions through the terminal command line to generate a README file in the output folder 
  
 ## Table of Contents 
 * [Installation](#installation) 
@@ -11,18 +11,18 @@ node based application
 * [Questions](#questions) 
  
 ## Installation 
-you will need node 
+You will need Node.js installed on your local machine to run this app 
  
 ## Usage 
-9 questions asked 
+You will be asked a series of 9 questions to answer. Once completed a “README.md” file will be created in the “output “ folder 
  
 ## Contributing 
-clone for personal use 
+You can clone the repo for personal use 
  
 ## Tests 
-no tesets 
+There are no tests  
  
 ## Questions 
-testing [GitHub Profile](https://github.com/testing) 
+github.com/nancysaetern [GitHub Profile](https://github.com/github.com/nancysaetern) 
 
-Feel free to email me at testing 
+Feel free to email me at nancysaetern@gmail.com 
