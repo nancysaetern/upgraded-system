@@ -20,3 +20,9 @@ THEN I am taken to the corresponding section of the README
 Link to walk through video
 
 https://watch.screencastify.com/v/OQ89sIB95oJwijVeNFTF
+
+
+Sample
+
+
+<img width="1187" alt="Screen Shot 2021-10-30 at 2 37 32 PM" src="https://user-images.githubusercontent.com/83084773/139559087-72ce1643-a34e-4f52-976b-19614387d3aa.png">
